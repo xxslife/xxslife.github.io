@@ -127,17 +127,17 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/xxslife || github
+  #GitHub: https://github.com/xxslife || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/xxslife || twitter
+  #Twitter: https://twitter.com/xxslife || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
-  Steam: https://store.steampowered.com || steam
-  Wiki: https://wiki.xxs.life || wikipedia-w
+  个人云盘: https://xxs.now.sh|| download
+  个人维基: https://wiki.xxs.life || wikipedia-w
 
 social_icons:
   enable: true
@@ -804,6 +804,8 @@ vendors:
   # https://github.com/revir/need-more-share2
   needMoreShare2:
 
+# Fireworks
+fireworks: true
 
 # Assets
 css: css
