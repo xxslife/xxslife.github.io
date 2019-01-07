@@ -805,7 +805,7 @@ vendors:
   needMoreShare2:
 
 # Fireworks
-fireworks: true
+fireworks: false
 
 # Assets
 css: css
