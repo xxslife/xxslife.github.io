@@ -21,7 +21,7 @@ categories: App
 - Markdown：[Typora](https://typora.io/)
 - 浏览器：[Chrome](https://www.google.com/chrome/)
 - 笔记：[Bear](https://bear.app/)
-- 视频播放器：[INNA](https://iina.io/)
+- 视频播放器：[IINA](https://iina.io/)
 
 ## Web
 
