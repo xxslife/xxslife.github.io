@@ -29,6 +29,6 @@ categories: App
 
 
 
-<center> 持续更新中 …… </center>
+<center> <font color=Crimson size=5>持续更新中……</font>  </center>
 
 ​						
