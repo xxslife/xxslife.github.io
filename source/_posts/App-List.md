@@ -1,6 +1,7 @@
 ---
 title: 常用 App 整理
 date: 2019-01-08 21:00:30
+tags: App
 categories: App
 ---
 
@@ -18,14 +19,30 @@ categories: App
 ## macOS
 
 - 密码管理：[1Password](https://1password.com/)
+
 - Markdown：[Typora](https://typora.io/)
+
 - 浏览器：[Chrome](https://www.google.com/chrome/)
+
 - 笔记：[Bear](https://bear.app/)
+
 - 视频播放器：[IINA](https://iina.io/)
+
+- 音乐聚合搜索：[Listen 1](http://listen1.github.io/listen1/)
+
+- App 宣传视频制作：[Design Camera](https://www.designcamera.app/) 相关：[让你的「带壳截图」动起来：Design Camera](https://sspai.com/post/52482)
+
+- 小工具：[Text2Image](https://www.yige.app/apps/text2image) 相关： [用 Markdown 生成漂亮的手写图](https://sspai.com/post/52190)
+
+  
 
 ## Web
 
 - 图片压缩：[Squoosh](https://squoosh.app/)
+
+##  Chrome 扩展
+
+- 
 
 
 
