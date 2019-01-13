@@ -15,6 +15,7 @@ categories: App
 - 自动化：[捷径](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8)
 - 编程：[JSBox](https://itunes.apple.com/cn/app/jsbox-learn-to-code/id1312014438?mt=8)
 - 两步验证：[Authy](https://itunes.apple.com/cn/app/authy/id494168017?mt=8)
+- 垃圾短信过滤：[熊猫吃短信](https://itunes.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E9%98%B2%E9%AA%9A%E6%89%B0/id1319191852?mt=8)
 
 ## macOS
 
