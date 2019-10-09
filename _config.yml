@@ -5,9 +5,9 @@
 # Site
 title: 小学生の日常
 subtitle:
-description: 
+description: 时间只会无情地往前走，却不会辜负持续努力的人。
 keywords:
-author: xxs
+author: HenHen
 language: zh-Hans
 timezone:
 
@@ -62,7 +62,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD MMM YYYY
 time_format: HH:mm:ss
 
 # Pagination
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: journal
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
