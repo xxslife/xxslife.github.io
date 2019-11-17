@@ -3,13 +3,14 @@ title: 常用 App 整理
 date: 2019-01-08 21:00:30
 categories: App
 tags: App
+author: HenHen
 ---
 
 > 整理日常使用的 App
 
 <!-- more -->
 
-### iOS
+## iOS
 
 - 密码管理：[1Password](https://1password.com/)
 - 自动化：[捷径](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8)
@@ -17,7 +18,7 @@ tags: App
 - 两步验证：[Authy](https://itunes.apple.com/cn/app/authy/id494168017?mt=8)
 - 垃圾短信过滤：[熊猫吃短信](https://itunes.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E9%98%B2%E9%AA%9A%E6%89%B0/id1319191852?mt=8)
 
-### macOS
+## macOS
 
 - 密码管理：[1Password](https://1password.com/)
 
@@ -39,4 +40,4 @@ tags: App
 
 
 
-<center> <font color=Crimson size=5>持续更新中……</font>  </center>
+<center> <font color=White size=5>持续更新中……</font>  </center>
