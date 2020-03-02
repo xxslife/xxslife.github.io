@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小学生の日常</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-02T09:02:04.944Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>HenHen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在线工具类网站整理</title>
+    <link href="http://yoursite.com/2019/04/08/Web/"/>
+    <id>http://yoursite.com/2019/04/08/Web/</id>
+    <published>2019-04-08T07:32:39.000Z</published>
+    <updated>2020-03-02T09:02:04.944Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>整理在线工具类网站</p></blockquote><a id="more"></a><ul><li>图片压缩： <a href="https://squoosh.app/" target="_blank" rel="noopener">Squoosh</a></li></ul><center> <font color="Crimson" size="5">持续更新中……</font>  </center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;整理在线工具类网站&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://yoursite.com/categories/Web/"/>
+    
+    
+      <category term="Web" scheme="http://yoursite.com/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome 扩展程序整理</title>
+    <link href="http://yoursite.com/2019/04/08/Chrome/"/>
+    <id>http://yoursite.com/2019/04/08/Chrome/</id>
+    <published>2019-04-08T07:32:30.000Z</published>
+    <updated>2020-03-02T09:02:04.944Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>整理常用的 Chrome 扩展程序</p></blockquote><a id="more"></a><ul><li>网页视频下载： <a href="https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk" target="_blank" rel="noopener">Video Downloader professional</a></li></ul><center> <font color="Crimson" size="5">持续更新中……</font>  </center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;整理常用的 Chrome 扩展程序&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Chrome" scheme="http://yoursite.com/categories/Chrome/"/>
+    
+    
+      <category term="Chrome" scheme="http://yoursite.com/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用 App 整理</title>
+    <link href="http://yoursite.com/2019/01/08/App/"/>
+    <id>http://yoursite.com/2019/01/08/App/</id>
+    <published>2019-01-08T13:00:30.000Z</published>
+    <updated>2020-03-02T09:02:04.942Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>整理日常使用的 App</p></blockquote><a id="more"></a><h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h2><ul><li>密码管理：<a href="https://1password.com/" target="_blank" rel="noopener">1Password</a></li><li>自动化：<a href="https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8" target="_blank" rel="noopener">捷径</a></li><li>编程：<a href="https://itunes.apple.com/cn/app/jsbox-learn-to-code/id1312014438?mt=8" target="_blank" rel="noopener">JSBox</a></li><li>两步验证：<a href="https://itunes.apple.com/cn/app/authy/id494168017?mt=8" target="_blank" rel="noopener">Authy</a></li><li>垃圾短信过滤：<a href="https://itunes.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E9%98%B2%E9%AA%9A%E6%89%B0/id1319191852?mt=8" target="_blank" rel="noopener">熊猫吃短信</a></li></ul><h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul><li><p>密码管理：<a href="https://1password.com/" target="_blank" rel="noopener">1Password</a></p></li><li><p>Markdown：<a href="https://typora.io/" target="_blank" rel="noopener">Typora</a></p></li><li><p>浏览器：<a href="https://www.google.com/chrome/" target="_blank" rel="noopener">Chrome</a></p></li><li><p>笔记：<a href="https://bear.app/" target="_blank" rel="noopener">Bear</a></p></li><li><p>视频播放器：<a href="https://iina.io/" target="_blank" rel="noopener">IINA</a></p></li><li><p>音乐聚合搜索：<a href="http://listen1.github.io/listen1/" target="_blank" rel="noopener">Listen 1</a></p></li><li><p>App 宣传视频制作：<a href="https://www.designcamera.app/" target="_blank" rel="noopener">Design Camera</a> 相关：<a href="https://sspai.com/post/52482" target="_blank" rel="noopener">让你的「带壳截图」动起来：Design Camera</a></p></li><li><p>小工具：<a href="https://www.yige.app/apps/text2image" target="_blank" rel="noopener">Text2Image</a> 相关： <a href="https://sspai.com/post/52190" target="_blank" rel="noopener">用 Markdown 生成漂亮的手写图</a></p></li></ul><center> <font color="White" size="5">持续更新中……</font>  </center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;整理日常使用的 App&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="App" scheme="http://yoursite.com/categories/App/"/>
+    
+    
+      <category term="App" scheme="http://yoursite.com/tags/App/"/>
+    
+  </entry>
+  
+</feed>
