@@ -5,13 +5,13 @@ tags: DestinyChild
 categories: Games
 ---
 
-> ★注意：如果使用 岛风Go/ACGP，这两个软件会自动帮你修改 .\rt\lib\net.properties 文件，所以请先将 DMM安装目录下 .\rt\lib\net.properties 删除或者替换成未被修改的版本
+> ★注意：如果使用 岛风Go/ACGP，这两个软件会自动帮你修改 .\rt\lib\net.properties 文件，所以请先将 DMM安装目录下 .\rt\lib\net.properties 替换成未被修改的版本 [「点我下载 提起码：zero」](https://pan.baidu.com/s/1fyflQOE1mxQbxudqiomUhw) 
 
 ### 0x00 软件环境
 
 - ##### 系统 Windows 10
 
-- ##### [Proxifier](https://www.lanzous.com/i2s70mj "Proxifier")
+- ##### Proxifier [「点我下载 提起码：zero」](https://pan.baidu.com/s/13c_2WGTBmkKSNmnNRfASyA)
 
 - ##### 任意科学上网工具
 
