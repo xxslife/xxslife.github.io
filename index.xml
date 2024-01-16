@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小学生的日常</title>
+    <link>https://xxslife.github.io/</link>
+    <description>Recent content on 小学生的日常</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 16 Jan 2024 21:46:54 +0800</lastBuildDate>
+    <atom:link href="https://xxslife.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://xxslife.github.io/post/test/</link>
+      <pubDate>Tue, 16 Jan 2024 21:46:54 +0800</pubDate>
+      <guid>https://xxslife.github.io/post/test/</guid>
+      <description>一个测试页面 </description>
+    </item>
+  </channel>
+</rss>
